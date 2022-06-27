@@ -11,7 +11,7 @@
 }
 
 .container-3 {
-  /*Iteration 3 :Using suitable CSS properties to allow the browser to add a scrollbar automatically if there is overflow */
+  /*Iteration 3 :Using suitable CSS properties to allow the browser to add a scrollbar automatically if there is an overflow */
  
   height: 200px;
 }
